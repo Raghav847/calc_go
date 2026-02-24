@@ -1,0 +1,18 @@
+# Binaries
+/bin/
+/build/
+*.exe
+*.out
+
+# Test binaries
+*.test
+
+# Coverage
+*.cover
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
